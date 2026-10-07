@@ -8,4 +8,11 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="..\Activity.cs" Link="Activity.cs" />
+    <Compile Include="..\BreathingActivity.cs" Link="BreathingActivity.cs" />
+    <Compile Include="..\ReflectionActivity.cs" Link="ReflectionActivity.cs" />
+    <Compile Include="..\ListingActivity.cs" Link="ListingActivity.cs" />
+  </ItemGroup>
+
 </Project>
